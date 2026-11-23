@@ -1,0 +1,10 @@
+# sistema
+.DS_Store
+Thumbs.db
+
+# segredos
+.env
+*.pem
+*.key
+
+*.log
